@@ -1,13 +1,13 @@
 JavaScript
 
-a scripting language that enables you to create dynamically updating content, control multimedia,
+A scripting language that enables you to create dynamically updating content, control multimedia,
 animate images, and pretty much everything else.
 (Okay, not everything, but it is amazing what you can achieve with a few lines of JavaScript code.)
 
 
 # HTML
 
-the markup language that we use to structure and give meaning to our web content, for example 
+The markup language that we use to structure and give meaning to our web content, for example 
 defining paragraphs, headings, and data tables, or embedding images and videos in the page.
 
 
