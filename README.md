@@ -18,9 +18,9 @@ our HTML content, for example setting background colors and fonts, and laying ou
 
 # Resources
 
-* HOW TO ( w3school )
-* Online Tutorials ( https://www.youtube.com/c/OnlineTutorials4Designers ) 
-* Bootstrap CSS 5.0 ( https://getbootstrap.com/docs/5.0/getting-started/introduction/ )
+* HOW TO ( [w3school](https://www.w3schools.com/howto/default.asp) )
+* Javascript ( [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) ) 
+* [Bootstrap CSS 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 # Files
 
