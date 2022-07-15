@@ -22,6 +22,3 @@ our HTML content, for example setting background colors and fonts, and laying ou
 * Javascript ( [Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers) ) 
 * [Bootstrap CSS 5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
-# Files
-
-filtergallary.html -> Product Filter Gallary Template Using JavaScript
